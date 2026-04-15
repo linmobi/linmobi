@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats-one-bice.vercel.app/api?username=linmobi)
+![linmobi's Stats](https://github-readme-stats.vercel.app/api?username=linmobi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
