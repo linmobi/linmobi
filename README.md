@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![linmobi's Stats](https://github-readme-stats.vercel.app/api?username=linmobi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![linmobi's Stats](https://github-readme-stats.vercel.app/api?username=linmobi&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+
+![linmobi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=linmobi&theme=ayu-mirage&hide_border=true)
+
+![linmobi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linmobi&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
